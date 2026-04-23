@@ -14,7 +14,7 @@ This project presents a Power BI dashboard that analyzes social media data to cl
 
 ## 📁 Files Included
 - cleaned_data.xlsx
-- dashboard.pbix
+- PowerBi.pbix
 
 ## 💡 Insights
 The dashboard helps understand the dominance of offensive content and patterns in social media data.
