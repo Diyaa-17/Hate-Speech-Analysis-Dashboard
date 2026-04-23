@@ -1,5 +1,6 @@
-# Hate Speech Analysis Dashboard
+## 📷 Dashboard Preview
 
+![Dashboard](dashboard.png)
 This project presents a Power BI dashboard that analyzes social media data to classify content into hate speech, offensive, and neutral categories.
 
 ## 📊 Tools Used
