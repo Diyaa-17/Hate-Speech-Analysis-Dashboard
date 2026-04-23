@@ -1,6 +1,7 @@
-## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+## 📷 Dashboard Preview
+<img width="899" height="426" alt="Dashboard" src="https://github.com/user-attachments/assets/5b1fa691-1b21-4392-b334-cd6764ff7e3d" />
+
 This project presents a Power BI dashboard that analyzes social media data to classify content into hate speech, offensive, and neutral categories.
 
 ## 📊 Tools Used
